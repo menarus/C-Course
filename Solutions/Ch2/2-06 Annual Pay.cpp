@@ -3,8 +3,8 @@ Project			: Annual Pay
 Author			: Mohammad Al-Husseini
 Description		: Computes an employee's anual pay.
 Known Values	: Paid every two weeks.
-Paid 26 times a year. (Same as previous peice of information)
-Earns 1,700 per pay peroid.
+				  Paid 26 times a year. (Same as previous peice of information)
+				  Earns 1,700 per pay peroid.
 Display			: Total annual pay.
 */
 ///////////////////////////////////////////////////////////////////////////////////////////////////
@@ -21,7 +21,7 @@ int main()
 	// Calculate the pay
 	int annualPay = payAmount * payPeroids; // Would also normally be floating point
 
-											// Display the results
+	// Display the results
 	cout << "The total annual pay for an employee making $1,700 per pay peroid is: $" << annualPay;
 
 	return 0;
