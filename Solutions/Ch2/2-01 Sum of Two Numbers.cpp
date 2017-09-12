@@ -1,8 +1,8 @@
 /*
-Project			: Sum of Two Numbers
-Author			: Mohammad Al-Husseini
-Description		: Stores the integers 62 and 99 in variables.
-			      Then store the result of their addition into a variable named total.
+Project		: Sum of Two Numbers
+Author		: Mohammad Al-Husseini
+Description	: Stores the integers 62 and 99 in variables.
+		  	  Then store the result of their addition into a variable named total.
 */
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
